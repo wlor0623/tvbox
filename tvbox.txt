@@ -8,7 +8,6 @@
 
     { "url": "https://tvbox.dooo.fun/菜妮丝/api.json", "name": "菜妮丝" },
 
-    { "url": "https://tvbox.dooo.fun/王二小/api.json", "name": "王二小" },
 
     { "url": "https://tvbox.dooo.fun/摸鱼儿/api.json", "name": "摸鱼儿" },
 
