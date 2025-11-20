@@ -446,7 +446,7 @@
             "key": "ikun",
             "name": "ikun",
             "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 1,
             "changeable": 1,
             "categories": [
