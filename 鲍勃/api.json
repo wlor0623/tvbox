@@ -23,7 +23,7 @@
             "key": "茅台",
             "name": "茅台",
             "type": 1,
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/"
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml/"
         },
         
         {
