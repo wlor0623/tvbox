@@ -25,7 +25,12 @@
             "type": 1,
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml/"
         },
-        
+          {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 1,
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/"
+        },
         {
             "key": "量子",
             "name": "量子",
