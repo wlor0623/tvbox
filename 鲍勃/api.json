@@ -1,10 +1,7 @@
-
-
 {
     "wallpaper": "https://tvbox.dooo.fun/bg.jpg",
     "spider": "./spider.jar",
     "lives": [
-   
         {
             "name": "IPV6",
             "type": 0,
@@ -23,13 +20,27 @@
             "key": "茅台",
             "name": "茅台",
             "type": 1,
+            "searchable": 1,
+
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml/"
         },
-          {
+        {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 1,
+            "searchable": 1,
+
             "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/"
+        },
+
+        
+        {
+            "key": "光速",
+            "name": "光速",
+            "type": 1,
+            "searchable": 1,
+
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/"
         },
         {
             "key": "量子",
@@ -114,6 +125,5 @@
                 "海外动漫"
             ]
         }
-        
     ]
 }
