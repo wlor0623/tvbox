@@ -1,4 +1,5 @@
 { "urls": [
+    { "url": "https://tvbox.dooo.fun/鲍勃/api.json", "name": "鲍勃" },
     
     { "url": "https://tvbox.dooo.fun/饭太硬/api.json", "name": "饭太硬" },
 
@@ -27,18 +28,8 @@
 
     { "url": "https://tvbox.dooo.fun/骚零/api.json", "name": "骚零" },
 
-    { "url": "https://tvbox.dooo.fun/白嫖/api.json", "name": "白嫖" },
 
     { "url": "https://tvbox.dooo.fun/OK/api.json", "name": "OK" },
 
-    { "url": "https://tvbox.dooo.fun/戏曲音乐/api.json", "name": "戏曲音乐" },
-
-    { "url": "https://tvbox.dooo.fun/短剧频道/api.json", "name": "短剧频道" },
-
-    { "url": "https://tvbox.dooo.fun/少儿频道/api.json", "name": "少儿频道" },
-
-    { "url": "https://tvbox.dooo.fun/动漫频道/api.json", "name": "动漫频道" },
-
-    { "url": "https://tvbox.dooo.fun/iptv365/api.json", "name": "iptv365直播" }
     
 ]}
