@@ -1,35 +1,4 @@
 { "urls": [
-    { "url": "https://tvbox.dooo.fun/鲍勃/api.json", "name": "鲍勃" },
-    
-    { "url": "https://tvbox.dooo.fun/饭太硬/api.json", "name": "饭太硬" },
-
-    { "url": "https://tvbox.dooo.fun/小米/api.json", "name": "小米" },
-
-    { "url": "https://tvbox.dooo.fun/肥猫/api.json", "name": "肥猫" },
-
-    { "url": "https://tvbox.dooo.fun/菜妮丝/api.json", "name": "菜妮丝" },
-
-
-    { "url": "https://tvbox.dooo.fun/摸鱼儿/api.json", "name": "摸鱼儿" },
-
-    { "url": "https://tvbox.dooo.fun/PG/api.json", "name": "PG" },
-
-    { "url": "https://tvbox.dooo.fun/欧歌/api.json", "name": "欧歌" },
-
-    { "url": "https://tvbox.dooo.fun/潇洒/api.json", "name": "潇洒" },
-
-    { "url": "https://tvbox.dooo.fun/天微/api.json", "name": "天微" },
-
-    { "url": "https://tvbox.dooo.fun/天天开心/api.json", "name": "天天开心" },
-
-    { "url": "https://tvbox.dooo.fun/香雅情/api.json", "name": "香雅情" },
-
-    { "url": "https://tvbox.dooo.fun/南风/api.json", "name": "南风" },
-
-    { "url": "https://tvbox.dooo.fun/骚零/api.json", "name": "骚零" },
-
-
-    { "url": "https://tvbox.dooo.fun/OK/api.json", "name": "OK" },
-
+    { "url": "https://tvbox.dooo.fun/代码简单说/api.json", "name": "代码简单说 dooo.fun" },
     
 ]}
